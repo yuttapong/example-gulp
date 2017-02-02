@@ -1,0 +1,7 @@
+.banner {
+  width: 40%;
+  border: solid 1px #ccc;
+  padding: 10px;
+  margin: 15px; }
+  .banner h1 {
+    color: green; }
